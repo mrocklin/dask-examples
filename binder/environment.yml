@@ -4,6 +4,7 @@ dependencies:
   - dask==0.17.2
   - dask-ml==0.4.1
   - distributed==1.21.6
+  - holoviews
   - numpy
   - pandas
   - scikit-learn
@@ -13,3 +14,6 @@ dependencies:
   - h5py
   - pip:
     - graphviz
+    - git+https://github.com/ioam/holoviews.git@master
+    - git+https://github.com/pyviz/holoplot.git@master
+    - git+https://github.com/mrocklin/streamz.git@master
