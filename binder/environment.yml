@@ -16,4 +16,4 @@ dependencies:
     - graphviz
     - git+https://github.com/ioam/holoviews.git@master
     - git+https://github.com/pyviz/holoplot.git@master
-    - git+https://github.com/mrocklin/streamz.git@master
+    - git+https://github.com/mrocklin/streamz.git@defend-sink
