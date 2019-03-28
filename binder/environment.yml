@@ -25,3 +25,5 @@ dependencies:
   - pip:
     - dask_xgboost
     - mimesis
+    - git+https://github.com/dask/dask@master --upgrade --no-deps
+    - git+https://github.com/dask/distributed@master --upgrade --no-deps
