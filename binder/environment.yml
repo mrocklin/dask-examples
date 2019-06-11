@@ -30,3 +30,4 @@ dependencies:
     - mimesis
     - jupyterlab==1.0.0a3
     - dask-labextension==0.3.3
+    - git+https://github.com/dask/dask@master
