@@ -28,7 +28,5 @@ dependencies:
   - pip:
     - dask_xgboost
     - mimesis
-    - jupyterlab==1.0.0a8
+    - jupyterlab==0.35
     - dask-labextension==0.3.3
-    - git+https://github.com/dask/dask@master
-    - git+https://github.com/dask/dask-labextension
